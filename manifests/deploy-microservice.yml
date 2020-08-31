@@ -2,7 +2,7 @@ kind: Deployment
 apiVersion: apps/v1
 metadata:
     labels:
-        app: dan-solo-microservice-microservice
+        app: dan-solo-microservice
         stack: frontend
         source: demo
     name: dan-solo-microservice
